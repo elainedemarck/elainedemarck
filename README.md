@@ -10,7 +10,7 @@ Meu nome é Elaine de Marck
 
 bortoluzzi.elaine@escola.pr.gov.br
 
-@elain.ebortoluzzi
+@elainedemarck
 
 ![](![image](https://github.com/user-attachments/assets/c01ae3c6-4bab-4b18-9c5d-faec6af20cba)
 
